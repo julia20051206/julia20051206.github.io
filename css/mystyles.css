@@ -1,0 +1,22 @@
+p{
+    color: dimgrey;
+}
+
+a.julialink{
+    padding: 0px 30px;
+    margin-left: 10px;
+    border-radius: 50px;
+    color: cornflowerblue;
+}
+
+a.julialink:hover {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+div.juliadivgrey{
+    background-color: rgb(144, 165, 235);
+    padding: 30px;
+    border-radius: 10px;
+    border: 1px solid rgb(33, 133, 173);
+}
