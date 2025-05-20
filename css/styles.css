@@ -8133,7 +8133,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: var(--bs-purple);
+  background-color:mediumpurple;
 }
 
 .bg-secondary {

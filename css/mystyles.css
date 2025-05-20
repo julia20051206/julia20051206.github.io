@@ -24,3 +24,18 @@ div.juliadivgrey{
 .juliaserif{
     font-family: "Noto Serif TC", serif;
 }
+
+.juliacallmebg{
+    background-image: url("../assets/img/300.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.juliacenter{
+    text-align: center;
+}
+
+.juliahl{
+    color: red;
+    font-weight: 900;
+}
