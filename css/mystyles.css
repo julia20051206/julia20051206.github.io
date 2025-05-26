@@ -36,6 +36,14 @@ div.juliadivgrey{
 }
 
 .juliahl{
-    color: red;
+    color: rgb(162, 27, 239);
     font-weight: 900;
+}
+
+.juliacolor{
+    color:#33044f ;
+}
+
+div.listwidth{
+    width: 60%;
 }

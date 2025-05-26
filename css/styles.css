@@ -4810,6 +4810,7 @@ textarea.form-control-lg {
   padding-left: 0;
   margin-bottom: 0;
   border-radius: var(--bs-list-group-border-radius);
+  width: 70%;
 }
 
 .list-group-numbered {
@@ -4861,9 +4862,9 @@ textarea.form-control-lg {
 }
 .list-group-item.active {
   z-index: 2;
-  color: var(--bs-list-group-active-color);
-  background-color: var(--bs-list-group-active-bg);
-  border-color: var(--bs-list-group-active-border-color);
+  color:white;
+  background-color:#6f42c1;
+  border-color:#6f42c1;
 }
 .list-group-item + .list-group-item {
   border-top-width: 0;
