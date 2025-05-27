@@ -47,3 +47,21 @@ div.juliadivgrey{
 div.listwidth{
     width: 60%;
 }
+
+.julialine{
+    border: 2px solid rgb(29, 11, 32);
+}
+
+table{
+    border-collapse: collapse;
+    width: 60%;
+}
+
+th,td{
+    border: 1px solid rgb(29, 11, 32);
+    padding: 10px;
+}
+
+.julia{
+    color: #402151;
+}
